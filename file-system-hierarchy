@@ -1,0 +1,30 @@
+🧠 Exercício
+
+Considere a seguinte estrutura de diretórios:
+
+/home/vitor/
+├── documentos/
+│   ├── faculdade/
+│   └── trabalho/
+├── downloads/
+└── imagens/
+
+Você está atualmente no diretório:
+
+/home/vitor/documentos/faculdade
+
+🔹 Perguntas:
+- Qual comando você usa para ir para o diretório trabalho?
+- Como voltar diretamente para o diretório home do usuário (vitor)?
+- Qual comando leva você para o diretório downloads usando caminho absoluto?
+- E usando caminho relativo?
+- Como voltar um nível acima?
+- Como ir direto para a raiz do sistema?
+
+Respostas:
+- cd ../trabalho 
+- cd ~
+- cd /home/vitor/downloads/
+- cd ../../downloads
+- cd ..
+- cd / 
